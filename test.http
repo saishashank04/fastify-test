@@ -1,0 +1,2 @@
+### get all items
+GET http://localhost:6060/items HTTP/1.1
